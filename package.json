@@ -1,0 +1,26 @@
+{
+  "name": "mocha-demo",
+  "version": "1.0.0",
+  "description": "基于mocha的自动化测试框架示例代码",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangeastsea2/hello-git.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "wangdonghai (wangeastsea@icloud.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangeastsea2/hello-git/issues"
+  },
+  "homepage": "https://github.com/wangeastsea2/hello-git#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}
